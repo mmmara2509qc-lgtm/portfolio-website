@@ -1,6 +1,6 @@
 <?php
 // Tiyakin na ang session ay nakasara at ang config ay kasama.
-//session_start(); 
+session_start(); 
 include '../includes/config.php';
 
 // === START OF BROWSER CACHE PREVENTION HEADERS ===
